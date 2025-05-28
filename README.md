@@ -1,6 +1,6 @@
 # Serie M1: Uso Inadecuado de Credenciales (Hardcoded Credentials)
 
-Este repositorio contiene el **laboratorio práctico** de la parte M2 de la serie **M1: Uso Inadecuado de Credenciales** (OWASP Mobile Top 10). Aquí aprenderás **qué NO hacer** en una app Flutter, cómo un atacante extrae tus secretos y cómo reproducirlo paso a paso.
+Este repositorio contiene el **laboratorio práctico** de la serie **M1: Uso Inadecuado de Credenciales**. Aquí aprenderás **qué NO hacer** en una app Flutter, cómo un atacante extrae tus secretos y cómo reproducirlo paso a paso.
 
 ---
 
